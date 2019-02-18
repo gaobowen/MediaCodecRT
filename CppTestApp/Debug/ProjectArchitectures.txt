@@ -1,0 +1,2 @@
+D:\UWP Develop\2019\LaiHuaVideo\LaiHuaVideo\CppTestApp\CppTestApp.vcxproj;x86
+D:\UWP Develop\2019\LaiHuaVideo\LaiHuaVideo\MediaCodecRT\MediaCodecRT.vcxproj;x86

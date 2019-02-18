@@ -1,0 +1,2 @@
+MainPackage=D:\UWP Develop\2019\LaiHuaVideo\LaiHuaVideo\x64\Release\CppTestApp\CppTestApp_1.0.0.0_x64.appx
+SymbolPackage=D:\成都包\CppTestApp_1.0.0.0_Test\CppTestApp_1.0.0.0_x64.appxsym

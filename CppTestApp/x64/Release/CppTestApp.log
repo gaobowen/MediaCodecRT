@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  App.xaml.cpp
+  XamlTypeInfo.Impl.g.cpp
+  MainPage.xaml.cpp
+  正在生成代码
+  已完成代码的生成
+  XamlTypeInfo.g.cpp
+    正在创建库 D:\UWP Develop\2019\LaiHuaVideo\LaiHuaVideo\x64\Release\CppTestApp\CppTestApp.lib 和对象 D:\UWP Develop\2019\LaiHuaVideo\LaiHuaVideo\x64\Release\CppTestApp\CppTestApp.exp
+  正在生成代码
+  99 of 3464 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    70 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  CppTestApp.vcxproj -> D:\UWP Develop\2019\LaiHuaVideo\LaiHuaVideo\x64\Release\CppTestApp\CppTestApp.exe
+  CppTestApp -> D:\UWP Develop\2019\LaiHuaVideo\LaiHuaVideo\x64\Release\CppTestApp\CppTestApp_1.0.0.0_x64.appx
+  CppTestApp -> D:\成都包\CppTestApp_1.0.0.0_Test\CppTestApp_1.0.0.0_x64.appxsym
+  CppTestApp -> D:\成都包\CppTestApp_1.0.0.0_Test\CppTestApp_1.0.0.0_x64.appxbundle

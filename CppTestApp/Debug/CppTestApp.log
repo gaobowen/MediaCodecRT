@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  App.xaml.cpp
+  MainPage.xaml.cpp
+  XamlTypeInfo.Impl.g.cpp
+  XamlTypeInfo.g.cpp
+    正在创建库 D:\UWP Develop\2019\LaiHuaVideo\LaiHuaVideo\Debug\CppTestApp\CppTestApp.lib 和对象 D:\UWP Develop\2019\LaiHuaVideo\LaiHuaVideo\Debug\CppTestApp\CppTestApp.exp
+  CppTestApp.vcxproj -> D:\UWP Develop\2019\LaiHuaVideo\LaiHuaVideo\Debug\CppTestApp\CppTestApp.exe
