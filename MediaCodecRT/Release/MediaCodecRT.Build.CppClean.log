@@ -1,36 +1,43 @@
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\pch.pch
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\vc141.pdb
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\pch.obj
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\mediacodec.obj
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\dllloader.obj
-d:\uwp develop\2019\laihuavideo\laihuavideo\safedll\bin\x86\mediacodecrt\mediacodecrt.dll
-d:\uwp develop\2019\laihuavideo\laihuavideo\safedll\bin\x86\mediacodecrt\mediacodecrt.winmd
-d:\uwp develop\2019\laihuavideo\laihuavideo\safedll\bin\x86\mediacodecrt\mediacodecrt.pdb
-d:\uwp develop\2019\laihuavideo\laihuavideo\safedll\bin\x86\mediacodecrt\mediacodecrt.lib
-d:\uwp develop\2019\laihuavideo\laihuavideo\safedll\bin\x86\mediacodecrt\mediacodecrt.exp
-d:\uwp develop\2019\laihuavideo\laihuavideo\safedll\bin\x86\mediacodecrt\mediacodecrt.ipdb
-d:\uwp develop\2019\laihuavideo\laihuavideo\safedll\bin\x86\mediacodecrt\mediacodecrt.iobj
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\priconfig.xml
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\priconfig.xml.intermediate
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\unfiltered.layout.resfiles
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\unfiltered.layout.resfiles.intermediate
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\filtered.layout.resfiles
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\filtered.layout.resfiles.intermediate
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\excluded.layout.resfiles
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\excluded.layout.resfiles.intermediate
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\resources.resfiles
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\resources.resfiles.intermediate
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\pri.resfiles
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\pri.resfiles.intermediate
-d:\uwp develop\2019\laihuavideo\laihuavideo\safedll\bin\x86\mediacodecrt\mediacodecrt.pri
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\qualifiers.txt
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\qualifiers.txt.intermediate
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\multiplequalifiersperdimensionfound.txt
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\mediacodecrt.tlog\cl.command.1.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\mediacodecrt.tlog\cl.read.1.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\mediacodecrt.tlog\cl.write.1.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\mediacodecrt.tlog\link.command.1.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\mediacodecrt.tlog\link.read.1.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\mediacodecrt.tlog\link.write.1.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\mediacodecrt.tlog\mediacodecrt.read.1u.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\release\mediacodecrt.tlog\mediacodecrt.write.1u.tlog
+d:\github\mediacodecrt\mediacodecrt\release\pch.pch
+d:\github\mediacodecrt\mediacodecrt\release\vc141.pdb
+d:\github\mediacodecrt\mediacodecrt\release\pch.obj
+d:\github\mediacodecrt\mediacodecrt\release\dllloader.obj
+d:\github\mediacodecrt\mediacodecrt\release\mediacodec.obj
+d:\github\mediacodecrt\bin\mediacodecrt\mediacodecrt.dll
+d:\github\mediacodecrt\bin\mediacodecrt\mediacodecrt.winmd
+d:\github\mediacodecrt\bin\mediacodecrt\mediacodecrt.pdb
+d:\github\mediacodecrt\bin\mediacodecrt\mediacodecrt.lib
+d:\github\mediacodecrt\bin\mediacodecrt\mediacodecrt.exp
+d:\github\mediacodecrt\bin\mediacodecrt\mediacodecrt.ipdb
+d:\github\mediacodecrt\bin\mediacodecrt\mediacodecrt.iobj
+d:\github\mediacodecrt\bin\mediacodecrt\avcodec-57.dll
+d:\github\mediacodecrt\bin\mediacodecrt\avdevice-57.dll
+d:\github\mediacodecrt\bin\mediacodecrt\avfilter-6.dll
+d:\github\mediacodecrt\bin\mediacodecrt\avformat-57.dll
+d:\github\mediacodecrt\bin\mediacodecrt\avutil-55.dll
+d:\github\mediacodecrt\bin\mediacodecrt\swresample-2.dll
+d:\github\mediacodecrt\bin\mediacodecrt\swscale-4.dll
+d:\github\mediacodecrt\mediacodecrt\release\priconfig.xml
+d:\github\mediacodecrt\mediacodecrt\release\priconfig.xml.intermediate
+d:\github\mediacodecrt\mediacodecrt\release\unfiltered.layout.resfiles
+d:\github\mediacodecrt\mediacodecrt\release\unfiltered.layout.resfiles.intermediate
+d:\github\mediacodecrt\mediacodecrt\release\filtered.layout.resfiles
+d:\github\mediacodecrt\mediacodecrt\release\filtered.layout.resfiles.intermediate
+d:\github\mediacodecrt\mediacodecrt\release\excluded.layout.resfiles
+d:\github\mediacodecrt\mediacodecrt\release\excluded.layout.resfiles.intermediate
+d:\github\mediacodecrt\mediacodecrt\release\resources.resfiles
+d:\github\mediacodecrt\mediacodecrt\release\resources.resfiles.intermediate
+d:\github\mediacodecrt\mediacodecrt\release\pri.resfiles
+d:\github\mediacodecrt\mediacodecrt\release\pri.resfiles.intermediate
+d:\github\mediacodecrt\bin\mediacodecrt\mediacodecrt.pri
+d:\github\mediacodecrt\mediacodecrt\release\qualifiers.txt
+d:\github\mediacodecrt\mediacodecrt\release\qualifiers.txt.intermediate
+d:\github\mediacodecrt\mediacodecrt\release\multiplequalifiersperdimensionfound.txt
+d:\github\mediacodecrt\mediacodecrt\release\mediacodecrt.tlog\cl.command.1.tlog
+d:\github\mediacodecrt\mediacodecrt\release\mediacodecrt.tlog\cl.read.1.tlog
+d:\github\mediacodecrt\mediacodecrt\release\mediacodecrt.tlog\cl.write.1.tlog
+d:\github\mediacodecrt\mediacodecrt\release\mediacodecrt.tlog\link.command.1.tlog
+d:\github\mediacodecrt\mediacodecrt\release\mediacodecrt.tlog\link.read.1.tlog
+d:\github\mediacodecrt\mediacodecrt\release\mediacodecrt.tlog\link.write.1.tlog
+d:\github\mediacodecrt\mediacodecrt\release\mediacodecrt.tlog\mediacodecrt.read.1u.tlog
+d:\github\mediacodecrt\mediacodecrt\release\mediacodecrt.tlog\mediacodecrt.write.1u.tlog

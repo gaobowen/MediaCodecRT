@@ -10,6 +10,7 @@ d:\uwp develop\2019\laihuavideo\laihuavideo\x64\debug\mediacodecrt\mediacodecrt.
 d:\uwp develop\2019\laihuavideo\laihuavideo\x64\debug\mediacodecrt\mediacodecrt.winmd
 d:\uwp develop\2019\laihuavideo\laihuavideo\x64\debug\mediacodecrt\mediacodecrt.lib
 d:\uwp develop\2019\laihuavideo\laihuavideo\x64\debug\mediacodecrt\mediacodecrt.exp
+d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\debug\mediacodecrt.vcxprojassemblyreference.cache
 d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\debug\priconfig.xml
 d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\debug\priconfig.xml.intermediate
 d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\debug\unfiltered.layout.resfiles
@@ -26,12 +27,19 @@ d:\uwp develop\2019\laihuavideo\laihuavideo\x64\debug\mediacodecrt\mediacodecrt.
 d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\debug\qualifiers.txt
 d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\debug\qualifiers.txt.intermediate
 d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\debug\multiplequalifiersperdimensionfound.txt
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\debug\mediacodecrt.vcxprojassemblyreference.cache
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\debug\mediacodecrt.tlog\cl.command.1.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\debug\mediacodecrt.tlog\cl.read.1.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\debug\mediacodecrt.tlog\cl.write.1.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\debug\mediacodecrt.tlog\link.command.1.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\debug\mediacodecrt.tlog\link.read.1.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\debug\mediacodecrt.tlog\link.write.1.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\debug\mediacodecrt.tlog\mediacodecrt.read.1u.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\debug\mediacodecrt.tlog\mediacodecrt.write.1u.tlog
+d:\github\mediacodecrt\mediacodecrt\x64\debug\mediacodecrt.vcxprojassemblyreference.cache
+d:\github\mediacodecrt\mediacodecrt\x64\debug\dllloader.obj
+d:\github\mediacodecrt\mediacodecrt\x64\debug\mediacodec.obj
+d:\github\mediacodecrt\mediacodecrt\x64\debug\pch.obj
+d:\github\mediacodecrt\mediacodecrt\x64\debug\pch.pch
+d:\github\mediacodecrt\mediacodecrt\x64\debug\vc141.idb
+d:\github\mediacodecrt\mediacodecrt\x64\debug\vc141.pdb
+d:\github\mediacodecrt\mediacodecrt\x64\debug\priconfig.xml
+d:\github\mediacodecrt\mediacodecrt\x64\debug\mediacodecrt.tlog\cl.command.1.tlog
+d:\github\mediacodecrt\mediacodecrt\x64\debug\mediacodecrt.tlog\cl.read.1.tlog
+d:\github\mediacodecrt\mediacodecrt\x64\debug\mediacodecrt.tlog\cl.write.1.tlog
+d:\github\mediacodecrt\mediacodecrt\x64\debug\mediacodecrt.tlog\link.command.1.tlog
+d:\github\mediacodecrt\mediacodecrt\x64\debug\mediacodecrt.tlog\link.read.1.tlog
+d:\github\mediacodecrt\mediacodecrt\x64\debug\mediacodecrt.tlog\link.write.1.tlog
+d:\github\mediacodecrt\mediacodecrt\x64\debug\mediacodecrt.tlog\mediacodecrt.read.1u.tlog
+d:\github\mediacodecrt\mediacodecrt\x64\debug\mediacodecrt.tlog\mediacodecrt.write.1u.tlog

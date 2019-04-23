@@ -17,4 +17,7 @@
     <ClInclude Include="dlldefine.h" />
     <ClInclude Include="DllLoader.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
 </Project>

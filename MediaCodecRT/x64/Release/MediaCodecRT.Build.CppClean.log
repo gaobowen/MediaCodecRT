@@ -1,37 +1,44 @@
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\pch.pch
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\vc141.pdb
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\pch.obj
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\dllloader.obj
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\mediacodec.obj
-d:\uwp develop\2019\laihuavideo\laihuavideo\safedll\bin\x64\mediacodecrt\mediacodecrt.dll
-d:\uwp develop\2019\laihuavideo\laihuavideo\safedll\bin\x64\mediacodecrt\mediacodecrt.winmd
-d:\uwp develop\2019\laihuavideo\laihuavideo\safedll\bin\x64\mediacodecrt\mediacodecrt.pdb
-d:\uwp develop\2019\laihuavideo\laihuavideo\safedll\bin\x64\mediacodecrt\mediacodecrt.lib
-d:\uwp develop\2019\laihuavideo\laihuavideo\safedll\bin\x64\mediacodecrt\mediacodecrt.exp
-d:\uwp develop\2019\laihuavideo\laihuavideo\safedll\bin\x64\mediacodecrt\mediacodecrt.ipdb
-d:\uwp develop\2019\laihuavideo\laihuavideo\safedll\bin\x64\mediacodecrt\mediacodecrt.iobj
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\mediacodecrt.vcxprojassemblyreference.cache
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\priconfig.xml
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\priconfig.xml.intermediate
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\unfiltered.layout.resfiles
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\unfiltered.layout.resfiles.intermediate
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\filtered.layout.resfiles
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\filtered.layout.resfiles.intermediate
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\excluded.layout.resfiles
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\excluded.layout.resfiles.intermediate
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\resources.resfiles
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\resources.resfiles.intermediate
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\pri.resfiles
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\pri.resfiles.intermediate
-d:\uwp develop\2019\laihuavideo\laihuavideo\safedll\bin\x64\mediacodecrt\mediacodecrt.pri
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\qualifiers.txt
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\qualifiers.txt.intermediate
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\multiplequalifiersperdimensionfound.txt
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\mediacodecrt.tlog\cl.command.1.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\mediacodecrt.tlog\cl.read.1.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\mediacodecrt.tlog\cl.write.1.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\mediacodecrt.tlog\link.command.1.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\mediacodecrt.tlog\link.read.1.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\mediacodecrt.tlog\link.write.1.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\mediacodecrt.tlog\mediacodecrt.read.1u.tlog
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\x64\release\mediacodecrt.tlog\mediacodecrt.write.1u.tlog
+d:\github\mediacodecrt\mediacodecrt\x64\release\pch.pch
+d:\github\mediacodecrt\mediacodecrt\x64\release\vc141.pdb
+d:\github\mediacodecrt\mediacodecrt\x64\release\pch.obj
+d:\github\mediacodecrt\mediacodecrt\x64\release\dllloader.obj
+d:\github\mediacodecrt\mediacodecrt\x64\release\mediacodec.obj
+d:\github\mediacodecrt\safedll\bin\x64\mediacodecrt\mediacodecrt.dll
+d:\github\mediacodecrt\safedll\bin\x64\mediacodecrt\mediacodecrt.winmd
+d:\github\mediacodecrt\safedll\bin\x64\mediacodecrt\mediacodecrt.pdb
+d:\github\mediacodecrt\safedll\bin\x64\mediacodecrt\mediacodecrt.lib
+d:\github\mediacodecrt\safedll\bin\x64\mediacodecrt\mediacodecrt.exp
+d:\github\mediacodecrt\safedll\bin\x64\mediacodecrt\mediacodecrt.ipdb
+d:\github\mediacodecrt\safedll\bin\x64\mediacodecrt\mediacodecrt.iobj
+d:\github\mediacodecrt\mediacodecrt\x64\release\mediacodecrt.vcxprojassemblyreference.cache
+d:\github\mediacodecrt\safedll\bin\x64\mediacodecrt\avcodec-57.dll
+d:\github\mediacodecrt\safedll\bin\x64\mediacodecrt\avdevice-57.dll
+d:\github\mediacodecrt\safedll\bin\x64\mediacodecrt\avfilter-6.dll
+d:\github\mediacodecrt\safedll\bin\x64\mediacodecrt\avformat-57.dll
+d:\github\mediacodecrt\safedll\bin\x64\mediacodecrt\avutil-55.dll
+d:\github\mediacodecrt\safedll\bin\x64\mediacodecrt\swresample-2.dll
+d:\github\mediacodecrt\safedll\bin\x64\mediacodecrt\swscale-4.dll
+d:\github\mediacodecrt\mediacodecrt\x64\release\priconfig.xml
+d:\github\mediacodecrt\mediacodecrt\x64\release\priconfig.xml.intermediate
+d:\github\mediacodecrt\mediacodecrt\x64\release\unfiltered.layout.resfiles
+d:\github\mediacodecrt\mediacodecrt\x64\release\unfiltered.layout.resfiles.intermediate
+d:\github\mediacodecrt\mediacodecrt\x64\release\filtered.layout.resfiles
+d:\github\mediacodecrt\mediacodecrt\x64\release\filtered.layout.resfiles.intermediate
+d:\github\mediacodecrt\mediacodecrt\x64\release\excluded.layout.resfiles
+d:\github\mediacodecrt\mediacodecrt\x64\release\excluded.layout.resfiles.intermediate
+d:\github\mediacodecrt\mediacodecrt\x64\release\resources.resfiles
+d:\github\mediacodecrt\mediacodecrt\x64\release\resources.resfiles.intermediate
+d:\github\mediacodecrt\mediacodecrt\x64\release\pri.resfiles
+d:\github\mediacodecrt\mediacodecrt\x64\release\pri.resfiles.intermediate
+d:\github\mediacodecrt\safedll\bin\x64\mediacodecrt\mediacodecrt.pri
+d:\github\mediacodecrt\mediacodecrt\x64\release\qualifiers.txt
+d:\github\mediacodecrt\mediacodecrt\x64\release\qualifiers.txt.intermediate
+d:\github\mediacodecrt\mediacodecrt\x64\release\multiplequalifiersperdimensionfound.txt
+d:\github\mediacodecrt\mediacodecrt\x64\release\mediacodecrt.tlog\cl.command.1.tlog
+d:\github\mediacodecrt\mediacodecrt\x64\release\mediacodecrt.tlog\cl.read.1.tlog
+d:\github\mediacodecrt\mediacodecrt\x64\release\mediacodecrt.tlog\cl.write.1.tlog
+d:\github\mediacodecrt\mediacodecrt\x64\release\mediacodecrt.tlog\link.command.1.tlog
+d:\github\mediacodecrt\mediacodecrt\x64\release\mediacodecrt.tlog\link.read.1.tlog
+d:\github\mediacodecrt\mediacodecrt\x64\release\mediacodecrt.tlog\link.write.1.tlog
+d:\github\mediacodecrt\mediacodecrt\x64\release\mediacodecrt.tlog\mediacodecrt.read.1u.tlog
+d:\github\mediacodecrt\mediacodecrt\x64\release\mediacodecrt.tlog\mediacodecrt.write.1u.tlog

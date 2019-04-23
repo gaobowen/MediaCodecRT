@@ -1,13 +1,14 @@
 ﻿  pch.cpp
   DllLoader.cpp
   MediaCodec.cpp
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\mediacodec.cpp(133): warning C4996: 'AVStream::codec': 被声明为已否决
-  d:\uwp develop\2019\laihuavideo\laihuavideo\safedll\include12320c0\libavformat\avformat.h(880): note: 参见“AVStream::codec”的声明
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\mediacodec.cpp(155): warning C4018: “>”: 有符号/无符号不匹配
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\mediacodec.cpp(376): warning C4101: “y_size”: 未引用的局部变量
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\mediacodec.cpp(469): warning C4996: 'AVStream::codec': 被声明为已否决
-  d:\uwp develop\2019\laihuavideo\laihuavideo\safedll\include12320c0\libavformat\avformat.h(880): note: 参见“AVStream::codec”的声明
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\mediacodec.cpp(515): warning C4996: 'AVStream::codec': 被声明为已否决
-  d:\uwp develop\2019\laihuavideo\laihuavideo\safedll\include12320c0\libavformat\avformat.h(880): note: 参见“AVStream::codec”的声明
-d:\uwp develop\2019\laihuavideo\laihuavideo\mediacodecrt\mediacodec.cpp(421): warning C4101: “out_picture_buf”: 未引用的局部变量
-  MediaCodecRT.vcxproj -> D:\UWP Develop\2019\LaiHuaVideo\LaiHuaVideo\x64\Debug\MediaCodecRT\MediaCodecRT.dll
+d:\github\mediacodecrt\mediacodecrt\mediacodec.cpp(133): warning C4996: 'AVStream::codec': 被声明为已否决
+  d:\github\mediacodecrt\packages\ffmpeg.wack.1.0.3\include\libavformat\avformat.h(880): note: 参见“AVStream::codec”的声明
+d:\github\mediacodecrt\mediacodecrt\mediacodec.cpp(155): warning C4018: “>”: 有符号/无符号不匹配
+d:\github\mediacodecrt\mediacodecrt\mediacodec.cpp(376): warning C4101: “y_size”: 未引用的局部变量
+d:\github\mediacodecrt\mediacodecrt\mediacodec.cpp(469): warning C4996: 'AVStream::codec': 被声明为已否决
+  d:\github\mediacodecrt\packages\ffmpeg.wack.1.0.3\include\libavformat\avformat.h(880): note: 参见“AVStream::codec”的声明
+d:\github\mediacodecrt\mediacodecrt\mediacodec.cpp(515): warning C4996: 'AVStream::codec': 被声明为已否决
+  d:\github\mediacodecrt\packages\ffmpeg.wack.1.0.3\include\libavformat\avformat.h(880): note: 参见“AVStream::codec”的声明
+d:\github\mediacodecrt\mediacodecrt\mediacodec.cpp(421): warning C4101: “out_picture_buf”: 未引用的局部变量
+    正在创建库 D:\github\MediaCodecRT\x64\Debug\MediaCodecRT\MediaCodecRT.lib 和对象 D:\github\MediaCodecRT\x64\Debug\MediaCodecRT\MediaCodecRT.exp
+  MediaCodecRT.vcxproj -> D:\github\MediaCodecRT\x64\Debug\MediaCodecRT\MediaCodecRT.dll
